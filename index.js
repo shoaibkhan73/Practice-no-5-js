@@ -1,4 +1,4 @@
-console.log("hi this is the practice no 5 js");
+console.log("hi this is the practice no 5 js ");
 
 function intro( self ) {
     console.log( self + " shoaib ");
